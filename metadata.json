@@ -1,0 +1,6 @@
+{
+  "name": "Sheets Sync",
+  "description": "Sincronizador de currículos profissional integrado com o Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
